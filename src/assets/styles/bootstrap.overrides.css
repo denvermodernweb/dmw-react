@@ -1,0 +1,9 @@
+/* Turn off right justify title in mobile */
+.navbar-brand {
+  margin-right: auto !important;
+}
+
+.container,
+.container-fluid {
+  margin-top: 20px;
+}
